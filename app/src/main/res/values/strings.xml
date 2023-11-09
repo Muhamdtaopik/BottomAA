@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Raden Nuralif</string>
+    <string-array name="kumpulanoperasihitung">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="kumpulankonversimatauang">
+        <item>Dollar</item>
+        <item>Ringgit</item>
+        <item>Rupe</item>
+        <item>Euro</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
